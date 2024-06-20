@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MirayMantarli
 - 👀 I’m interested in Software, Coding, Web Site Construction, 3D Modeling, Photoshop, Mobile Programming
-- 🌱 I’m currently learning software languages; C#,JAVA,JavaScript,Phyton
+- 🌱 I’m currently learning software languages; C#,JAVA,JavaScript,Phyton,PHP
 - 💞️ I’m looking to collaborate on With someone I can work with in the fields of software, website construction and 3D modeling
 - 📫 How to reach me " meryemmiray67@icloud.com " 
 
